@@ -8,6 +8,6 @@ Assignment 1 System Integration & Architecture https://docs.google.com/document/
 
 Assignment 2: https://docs.google.com/document/d/1RtwkxWyBtdaOpbG237VBk6Sb2E0_ilUvKbr7CnKHMLA/edit?usp=sharing
 
-![image](https://github.com/user-attachments/assets/bf10663d-8813-4c88-8839-356fb4949044)
+![image](https://github.com/user-attachments/assets/2d96c532-d23b-453f-b563-eb4f69a31449)
 
 
