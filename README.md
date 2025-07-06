@@ -3,3 +3,9 @@ Assignment 1 System Integration & Architecture https://docs.google.com/document/
 
 
 ![image](https://github.com/user-attachments/assets/01fca31f-b09f-4f71-b340-8ab6aa63e95d)
+
+
+
+Assignment 2: https://docs.google.com/document/d/1RtwkxWyBtdaOpbG237VBk6Sb2E0_ilUvKbr7CnKHMLA/edit?usp=sharing
+
+![image](https://github.com/user-attachments/assets/2a6123d2-c8d3-4c1f-9eec-d4a9f743b04d)
